@@ -1,0 +1,3 @@
+segment,customer_count,churned_count,retained_count,churn_rate,churn_contribution,overall_churn_rate,churn_index,overrepresented_among_churners
+Female,4543,1139,3404,0.2507153863086066,0.5591556210112911,0.2037,1.2308070020059236,True
+Male,5457,898,4559,0.16455928165658787,0.4408443789887089,0.2037,0.8078511617898275,False

@@ -1,0 +1,3 @@
+segment,customer_count,churned_count,retained_count,churn_rate,churn_contribution,overall_churn_rate,churn_index,overrepresented_among_churners,balance_exposure,churned_balance_exposure
+False,8404,1670,6734,0.19871489766777725,0.819833087874325,0.2037,0.9755272345006247,False,512697063.64,126873726.54
+True,1596,367,1229,0.2299498746867168,0.180166912125675,0.2037,1.1288653641959587,True,252161829.24,58714368.09

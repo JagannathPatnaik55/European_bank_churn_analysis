@@ -1,0 +1,30 @@
+{
+  "age": {
+    "<30": "18\u201329",
+    "30\u201345": "30\u201345",
+    "46\u201360": "46\u201360",
+    "60+": "61+"
+  },
+  "credit_score": {
+    "method": "sample tertiles",
+    "low_cutoff": 608.0,
+    "high_cutoff": 695.0
+  },
+  "tenure": {
+    "New": "0\u20132 years",
+    "Mid-term": "3\u20136 years",
+    "Long-term": "7\u201310 years"
+  },
+  "balance": {
+    "Zero-balance": "Balance exactly equals zero",
+    "Low-balance": "Positive balance up to positive-balance median",
+    "High-balance": "Positive balance above positive-balance median",
+    "positive_balance_median": 119839.69
+  },
+  "high_value_customer": {
+    "method": "positive balance >= 75% quantile",
+    "balance_threshold": 139512.29,
+    "interpretation": "high-balance proxy, not customer profitability"
+  },
+  "year": "snapshot provenance; constant in source file; excluded from explanatory analysis"
+}

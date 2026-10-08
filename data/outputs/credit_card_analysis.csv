@@ -1,0 +1,3 @@
+segment,customer_count,churned_count,retained_count,churn_rate,churn_contribution,overall_churn_rate,churn_index,overrepresented_among_churners
+No credit card,2945,613,2332,0.20814940577249574,0.3009327442317133,0.2037,1.0218429345728806,True
+Credit card holder,7055,1424,5631,0.20184266477675408,0.6990672557682867,0.2037,0.9908820067587338,False

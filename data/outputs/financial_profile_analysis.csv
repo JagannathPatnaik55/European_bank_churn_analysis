@@ -1,0 +1,3 @@
+Exited,Age_count,Age_mean,Age_median,CreditScore_count,CreditScore_mean,CreditScore_median,Tenure_count,Tenure_mean,Tenure_median,Balance_count,Balance_mean,Balance_median,EstimatedSalary_count,EstimatedSalary_mean,EstimatedSalary_median,NumOfProducts_count,NumOfProducts_mean,NumOfProducts_median
+0,7963,37.40838879819164,36.0,7963,651.8531960316463,653.0,7963,5.033278914981791,5.0,7963,72745.2967788522,92072.68,7963,99738.39177194524,99645.04,7963,1.5442672359663443,2.0
+1,2037,44.8379970544919,45.0,2037,645.3514972999509,646.0,2037,4.932744231713304,5.0,2037,91108.53933726068,109349.29,2037,101465.67753068237,102460.84,2037,1.4752086401570939,1.0

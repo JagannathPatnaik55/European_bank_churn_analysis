@@ -1,0 +1,5 @@
+.block-container { padding-top: 1.8rem; padding-bottom: 2.5rem; }
+[data-testid="stMetric"] { background: #f4f7fa; border: 1px solid #e2e8ef; padding: 0.9rem 1rem; border-radius: 12px; }
+[data-testid="stMetricLabel"] { color: #536273; }
+h1, h2, h3 { color: #17324d; }
+.stCaption { color: #64748b; }

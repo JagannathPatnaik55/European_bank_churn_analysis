@@ -1,0 +1,25 @@
+project:
+  title: Customer Segmentation & Churn Pattern Analytics in European Banking
+  target_column: Exited
+  random_seed: 42
+paths:
+  raw_data: data/raw/European_Bank.csv
+  processed_data: data/processed/cleaned_dataset.csv
+  output_dir: data/outputs
+  figure_dir: reports/figures
+  report_dir: reports
+segmentation:
+  age_labels: ["<30", "30–45", "46–60", "60+"]
+  age_upper_bounds: [29, 45, 60]
+  tenure_groups:
+    New: [0, 2]
+    Mid-term: [3, 6]
+    Long-term: [7, 10]
+  credit_score_quantiles: [0.3333333333, 0.6666666667]
+  balance_high_value_quantile: 0.75
+  minimum_insight_segment_size: 100
+  minimum_insight_rate_difference: 0.05
+dashboard:
+  page_title: European Banking Churn Analytics
+  layout: wide
+  debug: false

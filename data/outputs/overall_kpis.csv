@@ -1,0 +1,2 @@
+total_customers,retained_customers,churned_customers,overall_churn_rate,average_balance,churned_balance_exposure,churned_balance_share,churner_average_balance,churner_median_balance,high_value_customer_count,high_value_churned_count,high_value_churn_rate,high_value_churn_ratio,high_value_churn_balance_exposure
+10000,7963,2037,0.2037,76485.889288,185588094.63,0.24264357302715864,91108.53933726068,109349.29,1596,367,0.2299498746867168,0.180166912125675,58714368.09
